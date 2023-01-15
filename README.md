@@ -1,5 +1,5 @@
-# dsci-100-project_template
-Project repository for group 17.
+# Fraud Detection Using K-Nearest Neighbours Classification
+Project repository for DSCI 100 group 17. 
 
 Data source: 
 
